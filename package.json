@@ -1,0 +1,22 @@
+{
+  "name": "lenslight_tr",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ezgi Durmaz",
+  "license": "ISC",
+  "description": "node.js proje",
+  "repository": {
+    "type": "git",
+    "url": "lenslight_tr"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
